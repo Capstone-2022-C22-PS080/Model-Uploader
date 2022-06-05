@@ -22,3 +22,7 @@ Before using this, the following requirements should satisfy:
 - Prepare kaggle.json and GCP SA key and place them accordingly
 - Change the variables in source code to ur needs (like project name, bucket, and path)
 - Run the whole thing
+
+
+## LICENSE
+See [LICENSE](https://github.com/Capstone-2022-C22-PS080/Model-Uploader/blob/main/LICENSE)
